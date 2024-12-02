@@ -1,3 +1,10 @@
+## Ignore Makefile
+Makefile
+makefile
+
+# Ignore binaries and files without extension
+bin/*
+
 # Prerequisites
 *.d
 
